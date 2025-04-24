@@ -1,0 +1,11 @@
+{
+  "frameworkVersion": "3.29.3",
+  "channel": "stable",
+  "repositoryUrl": "https://github.com/flutter/flutter.git",
+  "frameworkRevision": "ea121f8859e4b13e47a8f845e4586164519588bc",
+  "frameworkCommitDate": "2025-04-11 19:10:07 +0000",
+  "engineRevision": "cf56914b326edb0ccb123ffdc60f00060bd513fa",
+  "dartSdkVersion": "3.7.2",
+  "devToolsVersion": "2.42.3",
+  "flutterVersion": "3.29.3"
+}
